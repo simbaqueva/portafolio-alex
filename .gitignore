@@ -1,0 +1,54 @@
+# Credenciales (NUNCA subir)
+.env
+.env.*
+
+# Entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Logs / servidor
+*.log
+server_*.log
+tmp_project.json
+
+# Scripts temporales de auditoría (no son parte del repo)
+_*.py
+
+# Recursos gráficos LOCALES (todo está en Cloudinary)
+# No subir los archivos grandes locales del portafolio
+01_BRANDING_IDENTITY/
+02_SOCIAL_MEDIA_DIGITAL/
+03_BTL_POP_MATERIALES/
+assets/
+perfil/
+"Comerciales tv/"
+
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.pdf
+*.rar
+*.zip
+*.ai
+*.psd
+*.eps
+*.indd
+
+# Temporales
+*.backup
+desktop.ini
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

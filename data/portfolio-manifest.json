@@ -1,0 +1,2822 @@
+{
+  "categories": [
+    {
+      "label": "Branding",
+      "key": "01_branding_identity",
+      "projects": [
+        {
+          "title": "A Mimir",
+          "subtitle": "A Mimir",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857661/01_BRANDING_IDENTITY/A_Mimir/01_Logo/WhatsApp%20Image%202025-08-19%20at%2011.35.16%20AM.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857661/01_BRANDING_IDENTITY/A_Mimir/01_Logo/WhatsApp%20Image%202025-08-19%20at%2011.35.16%20AM.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285677/01_BRANDING_IDENTITY/A_Mimir/02_Brand_Manual/01_A_Mimir_Brand_Manual.pdf",
+              "title": "01_A_Mimir_Brand_Manual.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857681/01_BRANDING_IDENTITY/A_Mimir/03_Packaging/AMimir_Mockup_Empaque_Sabanas.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857682/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimirSeDijo_Mockup_Tote_Bag.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857684/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Almohadas_Bordadas.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857684/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Cama_Completa.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857685/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Cama_Estampado_Oveja.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857687/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Cojin_Decorativo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857689/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Habitacion_Cama.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857690/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Par_Cojines.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857693/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Ropa_Cama.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857696/01_BRANDING_IDENTITY/A_Mimir/04_Mockups_Producto/AMimir_Mockup_Toalla_Bano.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857697/01_BRANDING_IDENTITY/A_Mimir/05_Fotografia/AMimirSeDijo_Collage_Bedding_Collection.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "A Mimir"
+          ],
+          "description": "Proyecto de Branding para A Mimir. Incluye 13 activos."
+        },
+        {
+          "title": "Arca Distrito",
+          "subtitle": "Arca Distrito",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857698/01_BRANDING_IDENTITY/Arca_Distrito/01_Logo/2.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857698/01_BRANDING_IDENTITY/Arca_Distrito/01_Logo/2.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285688/01_BRANDING_IDENTITY/Arca_Distrito/02_Brand_Manual/MANUAL%20MARCA%20ARCA%204%20copia.pdf",
+              "title": "MANUAL MARCA ARCA 4 copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857702/01_BRANDING_IDENTITY/Arca_Distrito/04_Mockups_Producto/Gemini_Generated_Image_3gvw3a3gvw3a3gvw.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857702/01_BRANDING_IDENTITY/Arca_Distrito/04_Mockups_Producto/Gemini_Generated_Image_3ni7ym3ni7ym3ni7.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857703/01_BRANDING_IDENTITY/Arca_Distrito/04_Mockups_Producto/Gemini_Generated_Image_qn3mmwqn3mmwqn3m.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857705/01_BRANDING_IDENTITY/Arca_Distrito/04_Mockups_Producto/Gemini_Generated_Image_s6z1dgs6z1dgs6z1.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857706/01_BRANDING_IDENTITY/Arca_Distrito/04_Mockups_Producto/Gemini_Generated_Image_snbe6ysnbe6ysnbe.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857707/01_BRANDING_IDENTITY/Arca_Distrito/04_Mockups_Producto/Gemini_Generated_Image_tz1q5ztz1q5ztz1q.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Arca Distrito"
+          ],
+          "description": "Proyecto de Branding para Arca Distrito. Incluye 8 activos."
+        },
+        {
+          "title": "BD Brand",
+          "subtitle": "BD Brand",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857707/01_BRANDING_IDENTITY/BD_Brand/01_Logo/Recurso%203.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857707/01_BRANDING_IDENTITY/BD_Brand/01_Logo/Recurso%203.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285691/01_BRANDING_IDENTITY/BD_Brand/02_Brand_Manual/01_BDBrand_Brand_Manual.pdf",
+              "title": "01_BDBrand_Brand_Manual.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857712/01_BRANDING_IDENTITY/BD_Brand/04_Mockups_Producto/11418758%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857716/01_BRANDING_IDENTITY/BD_Brand/04_Mockups_Producto/7a543fec-dc03-4fa9-ba87-52720f248420%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857719/01_BRANDING_IDENTITY/BD_Brand/04_Mockups_Producto/Gemini_Generated_Image_nw7sdcnw7sdcnw7s.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1788285653/01_BRANDING_IDENTITY/BD_Brand/04_Mockups_Producto/blank_isolated_white_and_black_t_shirt_front_view%20copia.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857723/01_BRANDING_IDENTITY/BD_Brand/04_Mockups_Producto/e2f2612a-3ef1-447d-b136-3964562d89ba%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857725/01_BRANDING_IDENTITY/BD_Brand/04_Mockups_Producto/mug_isolated_on_background%20copia.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "BD Brand"
+          ],
+          "description": "Proyecto de Branding para BD Brand. Incluye 8 activos."
+        },
+        {
+          "title": "Bon Bon Appetit",
+          "subtitle": "Bon Bon Appetit",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857725/01_BRANDING_IDENTITY/Bon_Bon_Appetit/01_Logo/BonBonAppetit_Logo_Horizontal_Vector.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857725/01_BRANDING_IDENTITY/Bon_Bon_Appetit/01_Logo/BonBonAppetit_Logo_Horizontal_Vector.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857728/01_BRANDING_IDENTITY/Bon_Bon_Appetit/02_Brand_Manual/Marcas%20para%20Mascotas%20Bon%20Bon%20Appetit.pdf",
+              "title": "Marcas para Mascotas Bon Bon Appetit.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857729/01_BRANDING_IDENTITY/Bon_Bon_Appetit/03_Packaging/02_Bon_Bon_Appetit_Packaging_Design.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857731/01_BRANDING_IDENTITY/Bon_Bon_Appetit/03_Packaging/BonBonAppetit_Packaging_Cat_Adultos_PequenosGrandes.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857734/01_BRANDING_IDENTITY/Bon_Bon_Appetit/03_Packaging/BonBonAppetit_Packaging_Dog_Adultos_MedianosGrandes.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857735/01_BRANDING_IDENTITY/Bon_Bon_Appetit/04_Mockups_Producto/BonBonAppetit_Mockup_Estante_Golosinas.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857736/01_BRANDING_IDENTITY/Bon_Bon_Appetit/04_Mockups_Producto/BonBonAppetit_Mockup_Exhibidor_Vertical.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857737/01_BRANDING_IDENTITY/Bon_Bon_Appetit/04_Mockups_Producto/BonBonAppetit_Mockup_Fachada_Tienda.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857738/01_BRANDING_IDENTITY/Bon_Bon_Appetit/05_Fotografia/BonBonAppetit_Brand_Overview.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857739/01_BRANDING_IDENTITY/Bon_Bon_Appetit/05_Fotografia/BonBonAppetit_Galletas_Dog_Prebioticos_Bolsa.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857740/01_BRANDING_IDENTITY/Bon_Bon_Appetit/05_Fotografia/BonBonAppetit_Galletas_Dog_Prebioticos_Jarra.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857741/01_BRANDING_IDENTITY/Bon_Bon_Appetit/05_Fotografia/BonBonAppetit_Product_Lineup_Supermarket.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857742/01_BRANDING_IDENTITY/Bon_Bon_Appetit/05_Fotografia/BonBonAppetit_Snacks_Cat_Prebioticos_Jarra.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Bon Bon Appetit"
+          ],
+          "description": "Proyecto de Branding para Bon Bon Appetit. Incluye 13 activos."
+        },
+        {
+          "title": "Cafe Racer",
+          "subtitle": "Cafe Racer",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857742/01_BRANDING_IDENTITY/Cafe_Racer/01_Logo/02_Cafe_Racer_Logo_Primary.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857742/01_BRANDING_IDENTITY/Cafe_Racer/01_Logo/02_Cafe_Racer_Logo_Primary.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857745/01_BRANDING_IDENTITY/Cafe_Racer/02_Brand_Manual/01_Cafe_Racer_Brand_Manual.pdf",
+              "title": "01_Cafe_Racer_Brand_Manual.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857746/01_BRANDING_IDENTITY/Cafe_Racer/03_Packaging/CafeRacer_Empaque_Cafe_Mockup.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857747/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Bolsa_Cafe_Ambiente.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857748/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Bolsa_Cafe_Molido.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857749/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Bolsa_Tradicional.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857749/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Bolsa_Tradicional_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857750/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Frasco_Cafe_Cafeteria.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857751/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Frasco_Cafe_Instataneo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857752/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Interior_Cafeteria.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857754/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Interior_CoffeeShop_Counter.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857755/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Lata_Cafe_Instataneo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857756/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Lata_Instataneo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857757/01_BRANDING_IDENTITY/Cafe_Racer/04_Mockups_Producto/CafeRacer_Mockup_Lata_Instataneo_Vintage.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857758/01_BRANDING_IDENTITY/Cafe_Racer/05_Fotografia/CafeRacer_Brand_Visual_Kit.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857759/01_BRANDING_IDENTITY/Cafe_Racer/05_Fotografia/CafeRacer_Collage_Identidad_Visual.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Cafe Racer"
+          ],
+          "description": "Proyecto de Branding para Cafe Racer. Incluye 16 activos."
+        },
+        {
+          "title": "De La Jinca",
+          "subtitle": "De La Jinca",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857760/01_BRANDING_IDENTITY/De_La_Jinca/01_Logo/WhatsApp%20Image%202025-07-31%20at%2012.47.00%20PM%20%281%29-Photoroom.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857760/01_BRANDING_IDENTITY/De_La_Jinca/01_Logo/WhatsApp%20Image%202025-07-31%20at%2012.47.00%20PM%20%281%29-Photoroom.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285697/01_BRANDING_IDENTITY/De_La_Jinca/02_Brand_Manual/manual%20de%20marca%20de%20la%20jinca%20copia.pdf",
+              "title": "manual de marca de la jinca copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857780/01_BRANDING_IDENTITY/De_La_Jinca/03_Packaging/DeLaJinca_Queso_Sopo_Empaque.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857781/01_BRANDING_IDENTITY/De_La_Jinca/04_Mockups_Producto/DeLaJinca_Mockup_Collage_Productos_Lacteos.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857783/01_BRANDING_IDENTITY/De_La_Jinca/05_Fotografia/DeLaJinca_Kit_Identidad_Visual_Quesos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857785/01_BRANDING_IDENTITY/De_La_Jinca/05_Fotografia/DeLaJinca_Queso_Bloque_Etiqueta.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857785/01_BRANDING_IDENTITY/De_La_Jinca/05_Fotografia/DeLaJinca_Queso_Untable_Envase.jpg"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "De La Jinca"
+          ],
+          "description": "Proyecto de Branding para De La Jinca. Incluye 7 activos."
+        },
+        {
+          "title": "Fundacion Lideres",
+          "subtitle": "Fundacion Lideres",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857787/01_BRANDING_IDENTITY/Fundacion_Lideres/01_Logo/02_D_de_Dar_Logo_Primary.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857787/01_BRANDING_IDENTITY/Fundacion_Lideres/01_Logo/02_D_de_Dar_Logo_Primary.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857787/01_BRANDING_IDENTITY/Fundacion_Lideres/01_Logo/Logo_D_De_Dar_Fondo_Amarillo.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857788/01_BRANDING_IDENTITY/Fundacion_Lideres/01_Logo/Logo_D_De_Dar_SinFondo.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857791/01_BRANDING_IDENTITY/Fundacion_Lideres/02_Brand_Manual/01_D_de_Dar_Brand_Manual.pdf",
+              "title": "01_D_de_Dar_Brand_Manual.pdf"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857794/01_BRANDING_IDENTITY/Fundacion_Lideres/02_Brand_Manual/01_Fulima_Brand_Manual.pdf",
+              "title": "01_Fulima_Brand_Manual.pdf"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857797/01_BRANDING_IDENTITY/Fundacion_Lideres/02_Brand_Manual/Acto%20de%20Dar%20y%20Alegr%C3%ADa.pdf",
+              "title": "Acto de Dar y Alegría.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857800/01_BRANDING_IDENTITY/Fundacion_Lideres/05_Fotografia/Charity_Event_Actividad_Parque_Ninos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857801/01_BRANDING_IDENTITY/Fundacion_Lideres/05_Fotografia/Charity_Event_Distribucion_Mercados.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857803/01_BRANDING_IDENTITY/Fundacion_Lideres/05_Fotografia/Charity_Event_Entrega_Mercados_Calle.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857805/01_BRANDING_IDENTITY/Fundacion_Lideres/05_Fotografia/Fulima_Donacion_Alimentos_Registro.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857808/01_BRANDING_IDENTITY/Fundacion_Lideres/05_Fotografia/Fulima_Donacion_Mercados.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857810/01_BRANDING_IDENTITY/Fundacion_Lideres/05_Fotografia/Fulima_Evento_Social_Futbol.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Fundacion Lideres"
+          ],
+          "description": "Proyecto de Branding para Fundacion Lideres. Incluye 12 activos."
+        },
+        {
+          "title": "Granola Brands",
+          "subtitle": "Granola Brands",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857811/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/01_Logo/WhatsApp%20Image%202025-09-08%20at%2011.04.18%20AM.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857811/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/01_Logo/WhatsApp%20Image%202025-09-08%20at%2011.04.18%20AM.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857814/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/02_Brand_Manual/manual%20de%20hola%20granola%20copia.pdf",
+              "title": "manual de hola granola copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857814/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Cereal_Nuez_Caja.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857815/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Empaque_Arandanos_Mockup.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857816/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Empaque_Tradicional_Mockup.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857817/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Bolsa_FrutosRojos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857818/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Bolsa_Nuez.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857819/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Bolsa_Nuez_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857820/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Caja_Arandanos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857821/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Caja_FrutosRojos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857822/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Caja_FrutosRojos_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857823/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Caja_Nuez.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857823/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/03_Packaging/HolaGranola_Mockup_Caja_Tradicional.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857825/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Collage_Lineup_Productos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857825/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Collage_Presentacion_Productos.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857826/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Mockup_Bolsa_Nuez_Cocina.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857827/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Mockup_Exhibidor_Cafeteria.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857828/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Mockup_Exhibidor_Cafeteria_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857829/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Mockup_Exhibidor_Sala.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857830/01_BRANDING_IDENTITY/Granola_Brands/Hola_Granola/04_Mockups_Producto/HolaGranola_Packaging_Lineup_Amarillo.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857831/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/01_Logo/WhatsApp%20Image%202025-09-08%20at%2011.05.57%20AM.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857834/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/02_Brand_Manual/Logo%20Ilove%20Granola_1.pdf",
+              "title": "Logo Ilove Granola_1.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857838/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/02_Love_Granola_Packaging_Lineup.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857840/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_All_Products_Lineup.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857841/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Caja_Granola_Organic.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857842/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Catalogo_Productos_Fondo.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857842/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Empaque_Arandanos.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857843/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Empaque_FrutosRojos_Caja_v2.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857844/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Empaque_Mockup_Bolsa.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857844/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Empaque_Mockup_Frasco.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857845/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Empaque_Nuez_Bolsa_Mockup.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857846/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Mockup_Bolsa_Arandano_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857846/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/03_Packaging/ILoveGranola_Mockup_Caja_FrutosRojos_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857848/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/04_Mockups_Producto/ILoveGranola_Mockup_Bolsa_Arandano_Cocina.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857849/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/04_Mockups_Producto/ILoveGranola_Mockup_Bolsa_Nuez_Cocina.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857850/01_BRANDING_IDENTITY/Granola_Brands/Love_Granola/04_Mockups_Producto/ILoveGranola_Mockup_Caja_FrutosRojos_Parque.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Granola Brands"
+          ],
+          "description": "Proyecto de Branding para Granola Brands. Incluye 36 activos."
+        },
+        {
+          "title": "Koala Senor Koala",
+          "subtitle": "Koala Senor Koala",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857850/01_BRANDING_IDENTITY/Koala_Senor_Koala/01_Logo/Logo_Senor_Koala_Fondo_Azul.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857850/01_BRANDING_IDENTITY/Koala_Senor_Koala/01_Logo/Logo_Senor_Koala_Fondo_Azul.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857852/01_BRANDING_IDENTITY/Koala_Senor_Koala/02_Brand_Manual/02_Koaala_Brand_Manual_v2.pdf",
+              "title": "02_Koaala_Brand_Manual_v2.pdf"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857854/01_BRANDING_IDENTITY/Koala_Senor_Koala/02_Brand_Manual/Koala%20Suavidad%20y%20Formalidad.pdf",
+              "title": "Koala Suavidad y Formalidad.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857854/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Empaque_4Rollos_Azul_Mockup.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857855/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Empaque_4Rollos_Presentacion.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857856/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Empaque_Papel_Higienico.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857856/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Mockup_Empaque_4Rollos_Vector.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857857/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Mockup_Empaque_4Rollos_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857858/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Mockup_Papel_Higienico_Logo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857859/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Packaging_1_Rollo.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857859/01_BRANDING_IDENTITY/Koala_Senor_Koala/03_Packaging/SenorKoala_Packaging_4_Rollos.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857860/01_BRANDING_IDENTITY/Koala_Senor_Koala/04_Mockups_Producto/SenorKoala_Mockup_Papel_Higienico_12_Rollos.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857860/01_BRANDING_IDENTITY/Koala_Senor_Koala/04_Mockups_Producto/SenorKoala_Mockup_Papel_Higienico_1_Rollo.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857861/01_BRANDING_IDENTITY/Koala_Senor_Koala/04_Mockups_Producto/SenorKoala_Mockup_Papeleria_Corporativa.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857861/01_BRANDING_IDENTITY/Koala_Senor_Koala/05_Papeleria_Corporativa/SenorKoala_Mockup_Papeleria_Logo_Dark.jpg"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Koala Senor Koala"
+          ],
+          "description": "Proyecto de Branding para Koala Senor Koala. Incluye 15 activos."
+        },
+        {
+          "title": "La Encantada",
+          "subtitle": "La Encantada",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857862/01_BRANDING_IDENTITY/La_Encantada/01_Logo/Recurso%201.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857862/01_BRANDING_IDENTITY/La_Encantada/01_Logo/Recurso%201.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857862/01_BRANDING_IDENTITY/La_Encantada/02_Brand_Manual/Logotipo%20La%20Encantada.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857863/01_BRANDING_IDENTITY/La_Encantada/04_Mockups_Producto/Logotipo%20La%20Encantada.jpg"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "La Encantada"
+          ],
+          "description": "Proyecto de Branding para La Encantada. Incluye 3 activos."
+        },
+        {
+          "title": "Lider Go",
+          "subtitle": "Lider Go",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857864/01_BRANDING_IDENTITY/Lider_Go/01_Logo/Captura%20de%20pantalla%202026-05-06%20144840.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857864/01_BRANDING_IDENTITY/Lider_Go/01_Logo/Captura%20de%20pantalla%202026-05-06%20144840.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285717/01_BRANDING_IDENTITY/Lider_Go/02_Brand_Manual/LIDER%20GO%201%20copia.pdf",
+              "title": "LIDER GO 1 copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857870/01_BRANDING_IDENTITY/Lider_Go/03_Packaging/Gemini_Generated_Image_73m2uz73m2uz73m2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857871/01_BRANDING_IDENTITY/Lider_Go/03_Packaging/Gemini_Generated_Image_d7ss5rd7ss5rd7ss.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857872/01_BRANDING_IDENTITY/Lider_Go/03_Packaging/Gemini_Generated_Image_gw0wvegw0wvegw0w.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857873/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_2h8i7m2h8i7m2h8i.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857874/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_3pvzed3pvzed3pvz.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857875/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_5fg8j15fg8j15fg8.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857877/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_deg9xpdeg9xpdeg9.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857878/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_dknvbgdknvbgdknv.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857879/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_dpgl4ydpgl4ydpgl.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857880/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_fozfthfozfthfozf.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857881/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_g2nuyeg2nuyeg2nu.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857882/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_inu3l1inu3l1inu3.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857883/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_v342w7v342w7v342.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857884/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_wikh62wikh62wikh.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857885/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_ws305cws305cws30.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857886/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Gemini_Generated_Image_z92uy7z92uy7z92u.png"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787857887/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Hailuo_Video_Create%20a%205-second%20realistic%20vi_442217369354665984.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787857888/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/Hailuo_Video_Create%20a%205-second%20realistic%20vi_442241458387517444.mp4"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857890/01_BRANDING_IDENTITY/Lider_Go/04_Mockups_Producto/MONTAJE%20copia.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Lider Go"
+          ],
+          "description": "Proyecto de Branding para Lider Go. Incluye 21 activos."
+        },
+        {
+          "title": "Nana Natilla",
+          "subtitle": "Nana Natilla",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857900/01_BRANDING_IDENTITY/Nana_Natilla/01_Logo/Imagen1_resultado.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857900/01_BRANDING_IDENTITY/Nana_Natilla/01_Logo/Imagen1_resultado.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857903/01_BRANDING_IDENTITY/Nana_Natilla/02_Brand_Manual/Presentaci%C3%B3n1.pdf",
+              "title": "Presentación1.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857906/01_BRANDING_IDENTITY/Nana_Natilla/03_Packaging/NaonaNatilla_Kit_Visual_Packaging.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857909/01_BRANDING_IDENTITY/Nana_Natilla/03_Packaging/NaonaNatilla_Kit_Visual_Packaging_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857910/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/1%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857911/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/11%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857912/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/12%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857913/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/2%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857913/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/21%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857914/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/22%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857915/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/4%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857915/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/41%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857916/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/42%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857919/01_BRANDING_IDENTITY/Nana_Natilla/04_Mockups_Producto/Productos%20Natilla%20Navide%C3%B1os.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Nana Natilla"
+          ],
+          "description": "Proyecto de Branding para Nana Natilla. Incluye 14 activos."
+        },
+        {
+          "title": "Nido Home",
+          "subtitle": "Nido Home",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857920/01_BRANDING_IDENTITY/Nido_Home/01_Logo/Recurso%201.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857920/01_BRANDING_IDENTITY/Nido_Home/01_Logo/Recurso%201.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285720/01_BRANDING_IDENTITY/Nido_Home/02_Brand_Manual/Identidad%20Visual%20NIIDO%20HOME.pdf",
+              "title": "Identidad Visual NIIDO HOME.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1788285656/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/11644617%20copia.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1788285658/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/2%208966446%20copia.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857939/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/32%208966446%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857940/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/338966446%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857941/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/448966446%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857943/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/5762051%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857945/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/7053634%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857947/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/8966446%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857948/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/PO03CA1%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857948/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/WhatsApp%20Image%202025-06-28%20at%209.37.07%20AM%20%281%29.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857949/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/WhatsApp%20Image%202025-06-28%20at%209.37.07%20AM%20%283%29.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857950/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/WhatsApp%20Image%202025-06-28%20at%209.37.07%20AM%20%284%29.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857950/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/WhatsApp%20Image%202025-06-28%20at%209.37.07%20AM%20%285%29.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857951/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/WhatsApp%20Image%202025-06-28%20at%209.37.07%20AM%20%286%29.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857952/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/WhatsApp%20Image%202025-06-28%20at%209.37.07%20AM.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857952/01_BRANDING_IDENTITY/Nido_Home/04_Mockups_Producto/esfero%20copia.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Nido Home"
+          ],
+          "description": "Proyecto de Branding para Nido Home. Incluye 18 activos."
+        },
+        {
+          "title": "Papelitos",
+          "subtitle": "Papelitos",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857987/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_7btcp97btcp97btc.png",
+          "assets": [
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787857986/01_BRANDING_IDENTITY/Papelitos/02_Brand_Manual/01_Papelitos_Brand_Manual.pdf",
+              "title": "01_Papelitos_Brand_Manual.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857987/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_7btcp97btcp97btc.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857988/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_cfwrz5cfwrz5cfwr.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857988/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_fwpou2fwpou2fwpo-Photoroom.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857989/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_fwpou2fwpou2fwpo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857990/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_tx99natx99natx99.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857991/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_x58h6gx58h6gx58h-Photoroom.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857992/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Gemini_Generated_Image_x58h6gx58h6gx58h.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857992/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Papelitos%20Suaves%20Suavecitos.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787857993/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/Papelitos%20toallas%20suaves.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858025/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/empaque2_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858026/01_BRANDING_IDENTITY/Papelitos/05_Mockups_Producto/empaque_resultado.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Papelitos"
+          ],
+          "description": "Proyecto de Branding para Papelitos. Incluye 12 activos."
+        },
+        {
+          "title": "PetPetit",
+          "subtitle": "PetPetit",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858027/01_BRANDING_IDENTITY/PetPetit/01_Logo/PetPetit_Logo_Primary_Vector.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858027/01_BRANDING_IDENTITY/PetPetit/01_Logo/PetPetit_Logo_Primary_Vector.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858029/01_BRANDING_IDENTITY/PetPetit/02_Brand_Manual/manual%20de%20marca%20bon%20bon%20apetit%20copia.pdf",
+              "title": "manual de marca bon bon apetit copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858030/01_BRANDING_IDENTITY/PetPetit/03_Packaging/4_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858031/01_BRANDING_IDENTITY/PetPetit/03_Packaging/6_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858032/01_BRANDING_IDENTITY/PetPetit/03_Packaging/7_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858033/01_BRANDING_IDENTITY/PetPetit/03_Packaging/Gemini_Generated_Image_9ofqkh9ofqkh9ofq.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858034/01_BRANDING_IDENTITY/PetPetit/03_Packaging/PetPetit_Mockup_Empaque_Gatos.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858034/01_BRANDING_IDENTITY/PetPetit/04_Mockups_Tienda/9%20copia.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858034/01_BRANDING_IDENTITY/PetPetit/04_Mockups_Tienda/9%20copia.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858041/01_BRANDING_IDENTITY/PetPetit/04_Mockups_Tienda/Gemini_Generated_Image_ezj59dezj59dezj5.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858042/01_BRANDING_IDENTITY/PetPetit/04_Mockups_Tienda/Gemini_Generated_Image_ujdoqiujdoqiujdo.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "PetPetit"
+          ],
+          "description": "Proyecto de Branding para PetPetit. Incluye 11 activos."
+        },
+        {
+          "title": "Quiere Cacao",
+          "subtitle": "Quiere Cacao",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858043/01_BRANDING_IDENTITY/Quiere_Cacao/01_Logo/Captura%20de%20pantalla%202026-05-04%20170323.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858043/01_BRANDING_IDENTITY/Quiere_Cacao/01_Logo/Captura%20de%20pantalla%202026-05-04%20170323.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858045/01_BRANDING_IDENTITY/Quiere_Cacao/02_Brand_Manual/Presentaci%C3%B3n1.pdf",
+              "title": "Presentación1.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858056/01_BRANDING_IDENTITY/Quiere_Cacao/03_Packaging/CHOCOLATE-LA-ESPECIAL-e1711488510299-Photoroom%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858057/01_BRANDING_IDENTITY/Quiere_Cacao/03_Packaging/QuiereCacao_Packaging_Cacao_Instantaneo_ClavoCanela.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858058/01_BRANDING_IDENTITY/Quiere_Cacao/03_Packaging/QuiereCacao_Packaging_Cacao_Polvo_230g.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858058/01_BRANDING_IDENTITY/Quiere_Cacao/04_Mockups_Producto/QuiereCacao_Chocolate_Mockup_Mug.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858061/01_BRANDING_IDENTITY/Quiere_Cacao/04_Mockups_Producto/QuiereCacao_Kit_Identidad_Visual_Chocolates.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Quiere Cacao"
+          ],
+          "description": "Proyecto de Branding para Quiere Cacao. Incluye 7 activos."
+        },
+        {
+          "title": "Taroa",
+          "subtitle": "Taroa",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858062/01_BRANDING_IDENTITY/Taroa/01_Logo/Recurso%202.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858062/01_BRANDING_IDENTITY/Taroa/01_Logo/Recurso%202.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858065/01_BRANDING_IDENTITY/Taroa/02_Brand_Manual/PROPUESTA%20TAROA%20FINAL.pdf",
+              "title": "PROPUESTA TAROA FINAL.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858066/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_2yxd442yxd442yxd.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858067/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_4gdi4f4gdi4f4gdi.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858069/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_7s5czu7s5czu7s5c%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858070/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_bqx8mcbqx8mcbqx8%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858070/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_d0gd92d0gd92d0gd.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858074/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_mo65yimo65yimo65.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858076/01_BRANDING_IDENTITY/Taroa/04_Mockups_Ropa/Gemini_Generated_Image_wrbh8dwrbh8dwrbh.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Taroa"
+          ],
+          "description": "Proyecto de Branding para Taroa. Incluye 9 activos."
+        },
+        {
+          "title": "Tokio Ramen",
+          "subtitle": "Tokio Ramen",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858076/01_BRANDING_IDENTITY/Tokio_Ramen/01_Logo/02_Tokio_Ramen_Logo_Primary.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858076/01_BRANDING_IDENTITY/Tokio_Ramen/01_Logo/02_Tokio_Ramen_Logo_Primary.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285732/01_BRANDING_IDENTITY/Tokio_Ramen/02_Brand_Manual/TokioRamen_Brand_Manual_With_Reservation.pdf",
+              "title": "TokioRamen_Brand_Manual_With_Reservation.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858084/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/10_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858087/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/11_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858089/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/12_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858093/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/1_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858096/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/2_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858099/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/3_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858101/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/4_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858103/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/5_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858106/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/6_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858108/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/7_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858111/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/8_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858115/01_BRANDING_IDENTITY/Tokio_Ramen/03_Packaging/9_resultado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858117/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/Gemini_Generated_Image_82hrm682hrm682hr.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858118/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/Gemini_Generated_Image_8g8mys8g8mys8g8m.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858120/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/Gemini_Generated_Image_fycol9fycol9fyco.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858120/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/Gemini_Generated_Image_u36l07u36l07u36l.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858121/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/Gemini_Generated_Image_yug24kyug24kyug2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858123/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/TokioRamen_Kit_Identidad_Visual.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858123/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/TokioRamen_Mockup_Vaso_SaborCarne_Mano.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858124/01_BRANDING_IDENTITY/Tokio_Ramen/04_Mockups_Producto/TokioRamen_Mockup_Vaso_SaborPollo.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Tokio Ramen"
+          ],
+          "description": "Proyecto de Branding para Tokio Ramen. Incluye 22 activos."
+        },
+        {
+          "title": "Un Alaguito",
+          "subtitle": "Un Alaguito",
+          "badge": "Branding",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858125/01_BRANDING_IDENTITY/Un_Alaguito/01_Logo/Recurso%2014.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858125/01_BRANDING_IDENTITY/Un_Alaguito/01_Logo/Recurso%2014.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858126/01_BRANDING_IDENTITY/Un_Alaguito/02_Brand_Manual/MANUAL%20DE%20MARCA%20UN%20ALGUITO%20copia.pdf",
+              "title": "MANUAL DE MARCA UN ALGUITO copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858127/01_BRANDING_IDENTITY/Un_Alaguito/03_Packaging/bbolsas-Photoroom.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858128/01_BRANDING_IDENTITY/Un_Alaguito/04_Mockups_Tienda/Gemini_Generated_Image_ag0wdtag0wdtag0w-Photoroom.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858128/01_BRANDING_IDENTITY/Un_Alaguito/04_Mockups_Tienda/Gemini_Generated_Image_knjq1oknjq1oknjq-Photoroom.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858136/01_BRANDING_IDENTITY/Un_Alaguito/04_Mockups_Tienda/Gemini_Generated_Image_ucvyrjucvyrjucvy%20copia-Photoroom.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858137/01_BRANDING_IDENTITY/Un_Alaguito/04_Mockups_Tienda/UnAlguito_Collage_Identidad_Visual.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858139/01_BRANDING_IDENTITY/Un_Alaguito/04_Mockups_Tienda/UnAlguito_Store_Collage.png"
+            }
+          ],
+          "category": "Branding",
+          "tags": [
+            "Branding",
+            "Contenido",
+            "Un Alaguito"
+          ],
+          "description": "Proyecto de Branding para Un Alaguito. Incluye 8 activos."
+        }
+      ],
+      "count": 19
+    },
+    {
+      "label": "Social Media",
+      "key": "02_social_media_digital",
+      "projects": [
+        {
+          "title": "Domo Motors",
+          "subtitle": "Domo Motors",
+          "badge": "Social Media",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858149/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_Campaign_MotoBMW_Showroom.jpg",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858148/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/1%20copia.mp4"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858149/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_Campaign_MotoBMW_Showroom.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858150/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_SocialMedia_BMW_Silver_Front_View.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858151/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_SocialMedia_BMW_Silver_Rear_Taillight.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858152/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_SocialMedia_Launch_SanCipriano_Motorcyclist.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858153/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_SocialMedia_Moto_Zontes_Dome_Exhibition.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858154/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_SocialMedia_Moto_Zontes_Front_View.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858154/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DOMOTORS_SocialMedia_Silver_Car_Dome_Event.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858156/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DomoMotors_Moto_Vista_Posterior.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858157/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/DomoMotors_Post_Redes_Sociales.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858158/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Post_BMW_Silver_Detalle_Trasero_2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858159/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Post_BMW_Silver_Frontal_2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858160/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Post_Interior_BMW_Dashboard.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858161/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Post_Moto_Frente_Domo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858162/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Post_Moto_Lateral_Maletero.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858163/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Post_Moto_Trasera_Maletero.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858164/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/01_Posts_Feed/Sin%20t%C3%ADtulo-1%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858165/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/02_Stories/2%20copia.png"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788285867/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/02_Stories/2.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858217/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/02_Stories/5.4.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858229/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/02_Stories/BMW%20G%20310%20R%20azul%20metalizado.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858239/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/02_Stories/FIN%20YAMAHA%20YZF155-A%20%28YZF-R15%29.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858249/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/02_Stories/NAVIDAD%20DOMOTORS.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858274/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/1%20%281%29.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858305/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/1.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788285937/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/2.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858348/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/A%C3%91O%20NUEVO.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858372/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/CORREGIR%20COLOR%203.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858399/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/Captions_1_12_2025%202_49%E2%80%AFp.m._ee80f231-454d-4e87-b78a-d4d3470bc838.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858430/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/Captions_26_11_2025%2011_02%E2%80%AFa.m._a9b49dff-d45e-46e7-84e1-a844762927b6.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788285988/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/DEFINITIVO%20FINAL.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858478/02_SOCIAL_MEDIA_DIGITAL/Domo_Motors/03_Reels_Videos/final%20video%20promocional.mp4"
+            }
+          ],
+          "category": "Social Media",
+          "tags": [
+            "Social Media",
+            "Contenido",
+            "Domo Motors"
+          ],
+          "description": "Proyecto de Social Media para Domo Motors. Incluye 32 activos."
+        },
+        {
+          "title": "Escalautos",
+          "subtitle": "Escalautos",
+          "badge": "Social Media",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858482/02_SOCIAL_MEDIA_DIGITAL/Escalautos/01_Posts_Feed/andinaRecurso%2016%20%281%29.png",
+          "assets": [
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858481/02_SOCIAL_MEDIA_DIGITAL/Escalautos/01_Posts_Feed/CARRUCEL%20YAMAHA%20copia.pdf",
+              "title": "CARRUCEL YAMAHA copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858482/02_SOCIAL_MEDIA_DIGITAL/Escalautos/01_Posts_Feed/andinaRecurso%2016%20%281%29.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858483/02_SOCIAL_MEDIA_DIGITAL/Escalautos/01_Posts_Feed/andinaRecurso%2016.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858484/02_SOCIAL_MEDIA_DIGITAL/Escalautos/01_Posts_Feed/andinaRecurso%2017%20%281%29.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858485/02_SOCIAL_MEDIA_DIGITAL/Escalautos/01_Posts_Feed/andinaRecurso%2017.png"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788286012/02_SOCIAL_MEDIA_DIGITAL/Escalautos/02_Stories/Blink-0acbe374-5cb4-42a3-81aa-f4ce7d20458d-Edited.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858522/02_SOCIAL_MEDIA_DIGITAL/Escalautos/02_Stories/Comp%201%20%282%29.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858534/02_SOCIAL_MEDIA_DIGITAL/Escalautos/02_Stories/idea%201.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858543/02_SOCIAL_MEDIA_DIGITAL/Escalautos/02_Stories/segunda%20opcion.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788286035/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/1.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788286058/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Blink-0acbe374-5cb4-42a3-81aa-f4ce7d20458d-Edited.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858622/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Blink-5c26419c-c0d1-437a-8321-53e4c2303669-Edited.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858638/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Carros%201-Escalautos.mov"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858652/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Carros%202-Escalautos.mov"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858668/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Motos%202-Escalautos.mov"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858682/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Motos%203-Escalautos.mov"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788286094/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Proyecto%20sin%20t%C3%ADtulo%20%281%29.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788286124/02_SOCIAL_MEDIA_DIGITAL/Escalautos/03_Reels_Videos/Proyecto%20sin%20t%C3%ADtulo.mp4"
+            }
+          ],
+          "category": "Social Media",
+          "tags": [
+            "Social Media",
+            "Contenido",
+            "Escalautos"
+          ],
+          "description": "Proyecto de Social Media para Escalautos. Incluye 18 activos."
+        },
+        {
+          "title": "GanaGana",
+          "subtitle": "GanaGana",
+          "badge": "Social Media",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858744/02_SOCIAL_MEDIA_DIGITAL/GanaGana/01_Posts_Feed/GanaGana_Post_SocialMedia_Financiamiento_Celular.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858744/02_SOCIAL_MEDIA_DIGITAL/GanaGana/01_Posts_Feed/GanaGana_Post_SocialMedia_Financiamiento_Celular.png"
+            }
+          ],
+          "category": "Social Media",
+          "tags": [
+            "Social Media",
+            "Contenido",
+            "GanaGana"
+          ],
+          "description": "Proyecto de Social Media para GanaGana. Incluye 1 activos."
+        },
+        {
+          "title": "Lider iGo",
+          "subtitle": "Lider iGo",
+          "badge": "Social Media",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858745/02_SOCIAL_MEDIA_DIGITAL/Lider_iGo/01_Posts_Feed/d2efe008-09bc-49d8-8f6d-b92b289e6f5f.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858745/02_SOCIAL_MEDIA_DIGITAL/Lider_iGo/01_Posts_Feed/d2efe008-09bc-49d8-8f6d-b92b289e6f5f.jpg"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858764/02_SOCIAL_MEDIA_DIGITAL/Lider_iGo/02_Stories/mp1_1.mp4"
+            }
+          ],
+          "category": "Social Media",
+          "tags": [
+            "Social Media",
+            "Contenido",
+            "Lider iGo"
+          ],
+          "description": "Proyecto de Social Media para Lider iGo. Incluye 2 activos."
+        },
+        {
+          "title": "Sete store",
+          "subtitle": "Sete store",
+          "badge": "Social Media",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858768/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/4%20%281%29.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858768/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/4%20%281%29.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858768/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/4.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858769/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/6.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858770/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/Promo_Celulares_Credito_GanaGana_Sete.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858770/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/Promo_Celulares_Credito_GanaGana_Sete_2.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858771/02_SOCIAL_MEDIA_DIGITAL/Sete_store/01_Posts_Feed/SETE_Post_SocialMedia_Financiamiento_Celular.jpg"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858776/02_SOCIAL_MEDIA_DIGITAL/Sete_store/02_Stories/COMP%201%20%282%29.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1788286157/02_SOCIAL_MEDIA_DIGITAL/Sete_store/02_Stories/GanaGana_Sete_Video_Corporativo.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858830/02_SOCIAL_MEDIA_DIGITAL/Sete_store/03_Reels_Videos/2%20NEW%20SETE.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858838/02_SOCIAL_MEDIA_DIGITAL/Sete_store/03_Reels_Videos/COMP%201%20%281%29.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858845/02_SOCIAL_MEDIA_DIGITAL/Sete_store/05_Spot_televisi%C3%B3n/GanaGana_Promo_Celulares_Video.mp4"
+            }
+          ],
+          "category": "Social Media",
+          "tags": [
+            "Social Media",
+            "Contenido",
+            "Sete store"
+          ],
+          "description": "Proyecto de Social Media para Sete store. Incluye 11 activos."
+        },
+        {
+          "title": "Supermercados lider",
+          "subtitle": "Supermercados lider",
+          "badge": "Social Media",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858846/02_SOCIAL_MEDIA_DIGITAL/Supermercados_lider/01_Posts_Feed/NATILLA%20Y%20BU%C3%91ELOS.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858846/02_SOCIAL_MEDIA_DIGITAL/Supermercados_lider/01_Posts_Feed/NATILLA%20Y%20BU%C3%91ELOS.jpg"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858864/02_SOCIAL_MEDIA_DIGITAL/Supermercados_lider/02_Stories/mp1_1.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858867/02_SOCIAL_MEDIA_DIGITAL/Supermercados_lider/montajes%20mockup/Hailuo_Video_Create%20a%205-second%20realistic%20vi_442217369354665984.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858868/02_SOCIAL_MEDIA_DIGITAL/Supermercados_lider/montajes%20mockup/Hailuo_Video_Create%20a%205-second%20realistic%20vi_442241458387517444.mp4"
+            }
+          ],
+          "category": "Social Media",
+          "tags": [
+            "Social Media",
+            "Contenido",
+            "Supermercados lider"
+          ],
+          "description": "Proyecto de Social Media para Supermercados lider. Incluye 4 activos."
+        }
+      ],
+      "count": 6
+    },
+    {
+      "label": "BTL & POP",
+      "key": "03_btl_pop_materiales",
+      "projects": [
+        {
+          "title": "Domo Motors",
+          "subtitle": "Domo Motors",
+          "badge": "BTL & POP",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858870/03_BTL_POP_MATERIALES/Domo_Motors/01_Merchandising/DOMOTORS_Merch_Chaqueta_Racing_Naranja.jpg",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858870/03_BTL_POP_MATERIALES/Domo_Motors/01_Merchandising/DOMOTORS_Merch_Chaqueta_Racing_Naranja.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858871/03_BTL_POP_MATERIALES/Domo_Motors/01_Merchandising/DOMOTORS_Merch_Fleece_Jacket_Orange_Mockup.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858871/03_BTL_POP_MATERIALES/Domo_Motors/01_Merchandising/DOMOTORS_Merch_Jacket_Design_Back_OrangeBlack.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858872/03_BTL_POP_MATERIALES/Domo_Motors/01_Merchandising/DOMOTORS_Merch_Jacket_Design_Front_OrangeWhite.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858873/03_BTL_POP_MATERIALES/Domo_Motors/01_Merchandising/DOMOTORS_Merch_Jacket_Lifestyle_Mockup.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858874/03_BTL_POP_MATERIALES/Domo_Motors/03_Senalizacion/24%20X%2024%20CM%20colgantes%20para%20motos.pdf",
+              "title": "24 X 24 CM colgantes para motos.pdf"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1787858876/03_BTL_POP_MATERIALES/Domo_Motors/03_Senalizacion/TARJETAS%20DE%20PRESENTACION.pdf",
+              "title": "TARJETAS DE PRESENTACION.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858876/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/01_DOMOTORS_Launch_San_Cipriano.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858877/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/02_DOMOTORS_BMW_Silver_Showcase.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858878/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/DomoMotors_Chaqueta_Diseno_Espalda_2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858879/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/DomoMotors_Diseno_Parasol_Vehiculo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858880/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/DomoMotors_Moto_Detalle_Lateral.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858881/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/DomoMotors_Moto_Exhibicion_2.png"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858890/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/Reel_Promo_Autos_1.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858894/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/Reel_Promo_Autos_2.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858898/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/Reel_Promo_Autos_3.mp4"
+            },
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787858902/03_BTL_POP_MATERIALES/Domo_Motors/04_Punto_Venta/Reel_Promo_Autos_4.mp4"
+            }
+          ],
+          "category": "BTL & POP",
+          "tags": [
+            "BTL & POP",
+            "Contenido",
+            "Domo Motors"
+          ],
+          "description": "Proyecto de BTL & POP para Domo Motors. Incluye 17 activos."
+        },
+        {
+          "title": "GanaGana",
+          "subtitle": "GanaGana",
+          "badge": "BTL & POP",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858904/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Activacion_Plaza.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858904/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Activacion_Plaza.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858905/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Inner_Service_Point.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858906/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Kiosko_Exteriores.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858907/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Local_Calle_Esquina.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858908/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Local_Calle_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858909/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Publicidad_Digital_Celulares.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858909/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Punto_Multiservicios.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858910/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Punto_Servicio_Atencion.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858911/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Punto_Servicio_Vertical.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858912/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Punto_Venta_Banner.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858913/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Punto_Venta_v3.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858914/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_Punto_Venta_v4.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858915/03_BTL_POP_MATERIALES/GanaGana/02_Eventos_Activaciones/GanaGana_Mockup_RollUp_Celulares.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858916/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/GanaGana_Fachada_Local_Multiservicios.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858917/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/GanaGana_Local_Venta_Celulares.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858918/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/GanaGana_Punto_Venta_Centro_Comercial.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858919/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_4vw2rn4vw2rn4vw2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858920/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_kzdlkmkzdlkmkzdl.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858921/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_l5tnyal5tnyal5tn.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858922/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_lgsevylgsevylgse.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858923/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_m6us38m6us38m6us.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858924/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_q7ojonq7ojonq7oj.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858925/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_wbhsq0wbhsq0wbhs.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858926/03_BTL_POP_MATERIALES/GanaGana/04_Punto_Venta/Gemini_Generated_Image_x9nsu6x9nsu6x9ns.png"
+            }
+          ],
+          "category": "BTL & POP",
+          "tags": [
+            "BTL & POP",
+            "Contenido",
+            "GanaGana"
+          ],
+          "description": "Proyecto de BTL & POP para GanaGana. Incluye 24 activos."
+        },
+        {
+          "title": "Lider iGo",
+          "subtitle": "Lider iGo",
+          "badge": "BTL & POP",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858927/03_BTL_POP_MATERIALES/Lider_iGo/01_Merchandising/Lider_iGo_Mockup_Merchandising_Kit.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858927/03_BTL_POP_MATERIALES/Lider_iGo/01_Merchandising/Lider_iGo_Mockup_Merchandising_Kit.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858928/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Flyer_Evento_Promocional.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858928/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Calle_Camion_Tienda.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858929/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_ECommerce_Multiplataforma.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858930/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_AcaDeTodito.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858931/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Calle_Completa.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858932/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Calle_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858933/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Digital_Efecto.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858934/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Edificio_Principal.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858935/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Edificio_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858936/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Esquina.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858937/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Fachada_Tienda_Esquina_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858938/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Flota_Camiones_Calle.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858939/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Packaging_Kit_Rojo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858940/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Personal_Unificado.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858941/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Tienda_Fisica_AcadeTodito.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858942/03_BTL_POP_MATERIALES/Lider_iGo/02_Eventos_Activaciones/Lider_iGo_Mockup_Web_Multiplataforma_v2.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858943/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Costilla%20de%20res.jpg"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285746/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Estrategia_Lider_Go_V1.pdf",
+              "title": "Estrategia_Lider_Go_V1.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858951/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Fachada_Supermercados_Lider.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858952/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Fachada_Supermercados_Lider_2.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858953/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_Oferta_Publicitaria_Carne.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858953/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_Publicidad_Arroz_Supremo.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858954/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_Publicidad_Galletas_Noel.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858955/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Camion_Distribucion.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858956/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Collage_Outdoor_Advertising.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858958/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Collage_Publicitario_Multicategoria.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858959/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Fachada_Tienda_Departamental.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858960/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Flota_Vehiculos_Calle.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858961/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Interior_Supermercado_Senaletica.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858962/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Logistica_Domicilios_Calle.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858963/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Personal_Tienda.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858964/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Lider_iGo_Publicidad_Exterior_Edificio.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858965/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Logo%20L%C3%ADder%20iGo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858966/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/Logo%20L%C3%ADder%20iGo_1.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858968/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/L%C3%ADder%20iGo%20Logo.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858969/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/PAPA%20LAVADA%20EL%20REY.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858970/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/PIERNA%20PULA%20DE%20CERDO.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858970/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/VINOS.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858971/03_BTL_POP_MATERIALES/Lider_iGo/04_Punto_Venta/leche.jpg"
+            }
+          ],
+          "category": "BTL & POP",
+          "tags": [
+            "BTL & POP",
+            "Contenido",
+            "Lider iGo"
+          ],
+          "description": "Proyecto de BTL & POP para Lider iGo. Incluye 40 activos."
+        },
+        {
+          "title": "Supermercados Líder",
+          "subtitle": "Supermercados Líder",
+          "badge": "BTL & POP",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858972/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/406477-PD3907-368%20copia.png",
+          "assets": [
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858972/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/406477-PD3907-368%20copia.png"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858973/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/4331324%20copia%202.png"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285762/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/DEF%20HORIZONTAL%20PENDON%20LIDER%20copia.pdf",
+              "title": "DEF HORIZONTAL PENDON LIDER copia.pdf"
+            },
+            {
+              "type": "document",
+              "format": "pdf",
+              "src": "https://res.cloudinary.com/bejbzt7n/raw/upload/v1788285775/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/PENDON%20LIDER%20copia.pdf",
+              "title": "PENDON LIDER copia.pdf"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858990/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/WhatsApp%20Image%202025-07-17%20at%2012.06.10%20PM.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858991/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/WhatsApp%20Image%202025-07-17%20at%2012.13.44%20PM.jpg"
+            },
+            {
+              "type": "image",
+              "src": "https://res.cloudinary.com/bejbzt7n/image/upload/v1787858992/03_BTL_POP_MATERIALES/Supermercados_L%C3%ADder/WhatsApp%20Image%202025-07-17%20at%2012.16.08%20PM%20copia.png"
+            }
+          ],
+          "category": "BTL & POP",
+          "tags": [
+            "BTL & POP",
+            "Contenido",
+            "Supermercados Líder"
+          ],
+          "description": "Proyecto de BTL & POP para Supermercados Líder. Incluye 7 activos."
+        }
+      ],
+      "count": 4
+    },
+    {
+      "label": "Comerciales TV",
+      "key": "comerciales_tv",
+      "projects": [
+        {
+          "title": "animacion-comercial-01",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859014/Comerciales%20tv/animacion-comercial-01.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859014/Comerciales%20tv/animacion-comercial-01.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "animacion-comercial-02",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859038/Comerciales%20tv/animacion-comercial-02.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859038/Comerciales%20tv/animacion-comercial-02.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-actualizado-julio-2024",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859055/Comerciales%20tv/comercial-actualizado-julio-2024.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859055/Comerciales%20tv/comercial-actualizado-julio-2024.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-cervezas-licores",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859058/Comerciales%20tv/comercial-cervezas-licores.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859058/Comerciales%20tv/comercial-cervezas-licores.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-city-tv-segundo",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859060/Comerciales%20tv/comercial-city-tv-segundo.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859060/Comerciales%20tv/comercial-city-tv-segundo.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-feria-bienestar-salud",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859064/Comerciales%20tv/comercial-feria-bienestar-salud.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859064/Comerciales%20tv/comercial-feria-bienestar-salud.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-fin-de-semana-nueva",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859077/Comerciales%20tv/comercial-fin-de-semana-nueva.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859077/Comerciales%20tv/comercial-fin-de-semana-nueva.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-generico-01",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859082/Comerciales%20tv/comercial-generico-01.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859082/Comerciales%20tv/comercial-generico-01.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-generico-02",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859086/Comerciales%20tv/comercial-generico-02.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859086/Comerciales%20tv/comercial-generico-02.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-leon-13-acortado",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859095/Comerciales%20tv/comercial-leon-13-acortado.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859095/Comerciales%20tv/comercial-leon-13-acortado.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-proyecto-04",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859110/Comerciales%20tv/comercial-proyecto-04.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859110/Comerciales%20tv/comercial-proyecto-04.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-proyecto-05",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859113/Comerciales%20tv/comercial-proyecto-05.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859113/Comerciales%20tv/comercial-proyecto-05.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-proyecto-06",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859116/Comerciales%20tv/comercial-proyecto-06.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859116/Comerciales%20tv/comercial-proyecto-06.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-render-final",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859133/Comerciales%20tv/comercial-render-final.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859133/Comerciales%20tv/comercial-render-final.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-segundo-video",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859148/Comerciales%20tv/comercial-segundo-video.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859148/Comerciales%20tv/comercial-segundo-video.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-torre-eiffel",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859155/Comerciales%20tv/comercial-torre-eiffel.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859155/Comerciales%20tv/comercial-torre-eiffel.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "comercial-voz-miguel",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859159/Comerciales%20tv/comercial-voz-miguel.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859159/Comerciales%20tv/comercial-voz-miguel.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "corto-redes-sociales",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859162/Comerciales%20tv/corto-redes-sociales.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859162/Comerciales%20tv/corto-redes-sociales.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "intro-youtube-01",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859165/Comerciales%20tv/intro-youtube-01.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859165/Comerciales%20tv/intro-youtube-01.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "intro-youtube-principal",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859169/Comerciales%20tv/intro-youtube-principal.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859169/Comerciales%20tv/intro-youtube-principal.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "promo-domomotors-autos",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859188/Comerciales%20tv/promo-domomotors-autos.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859188/Comerciales%20tv/promo-domomotors-autos.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "promo-nevera-1080p",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859191/Comerciales%20tv/promo-nevera-1080p.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859191/Comerciales%20tv/promo-nevera-1080p.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "promo-qhubo-completa",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859193/Comerciales%20tv/promo-qhubo-completa.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859193/Comerciales%20tv/promo-qhubo-completa.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "resumen-navideno-02",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859199/Comerciales%20tv/resumen-navideno-02.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859199/Comerciales%20tv/resumen-navideno-02.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "spot-comercial-turquesa",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859201/Comerciales%20tv/spot-comercial-turquesa.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859201/Comerciales%20tv/spot-comercial-turquesa.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "video-expectativa-evento",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859206/Comerciales%20tv/video-expectativa-evento.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859206/Comerciales%20tv/video-expectativa-evento.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "video-proyecto-06-v2",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859208/Comerciales%20tv/video-proyecto-06-v2.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859208/Comerciales%20tv/video-proyecto-06-v2.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "video-whatsapp-febrero-2025",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859211/Comerciales%20tv/video-whatsapp-febrero-2025.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859211/Comerciales%20tv/video-whatsapp-febrero-2025.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        },
+        {
+          "title": "video-youtube-enero-2025",
+          "subtitle": "Comercial TV",
+          "badge": "Comercial TV",
+          "previewImage": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859213/Comerciales%20tv/video-youtube-enero-2025.mp4",
+          "assets": [
+            {
+              "type": "video",
+              "src": "https://res.cloudinary.com/bejbzt7n/video/upload/v1787859213/Comerciales%20tv/video-youtube-enero-2025.mp4"
+            }
+          ],
+          "category": "Comerciales TV",
+          "tags": [
+            "Video",
+            "TV",
+            "Producción"
+          ],
+          "description": "Spot comercial listo para reproducción directa."
+        }
+      ],
+      "count": 29
+    },
+    {
+      "label": "Programación Web",
+      "key": "programacion_web",
+      "projects": [
+        {
+          "title": "Landing Page Subastas",
+          "subtitle": "https://simbaqueva.github.io/landing-page-subastap/",
+          "badge": "Web",
+          "previewImage": "",
+          "githubUrl": "https://github.com/simbaqueva/landing-page-subastap",
+          "assets": [
+            {
+              "type": "document",
+              "src": "https://simbaqueva.github.io/landing-page-subastap/",
+              "title": "Sitio Web"
+            }
+          ],
+          "category": "Programación Web",
+          "tags": [
+            "Web",
+            "Landing Page",
+            "Subastas"
+          ],
+          "description": "Landing page para proyecto de subastas en línea, desplegada como sitio web autónomo."
+        },
+        {
+          "title": "Niido Home Sabanas Landing Page",
+          "subtitle": "https://simbaqueva.github.io/Niido-Home-sabanas-landing-page/",
+          "badge": "Web",
+          "previewImage": "",
+          "githubUrl": "https://github.com/simbaqueva/Niido-Home-sabanas-landing-page",
+          "assets": [
+            {
+              "type": "document",
+              "src": "https://simbaqueva.github.io/Niido-Home-sabanas-landing-page/",
+              "title": "Sitio Web"
+            }
+          ],
+          "category": "Programación Web",
+          "tags": [
+            "Web",
+            "Landing Page",
+            "Niido Home"
+          ],
+          "description": "Landing page para Niido Home Sabanas, desplegada como sitio web autónomo."
+        },
+        {
+          "title": "Mango Party",
+          "subtitle": "https://simbaqueva.github.io/mangoparty/",
+          "badge": "Web",
+          "previewImage": "",
+          "githubUrl": "https://github.com/simbaqueva/mangoparty",
+          "assets": [
+            {
+              "type": "document",
+              "src": "https://simbaqueva.github.io/mangoparty/",
+              "title": "Sitio Web"
+            }
+          ],
+          "category": "Programación Web",
+          "tags": [
+            "Web",
+            "Landing Page",
+            "Mango Party"
+          ],
+          "description": "Sitio web de Mango Party, desplegado como web autónoma."
+        },
+        {
+          "title": "Fulima Landing Page",
+          "subtitle": "https://simbaqueva.github.io/landing_fulima/",
+          "badge": "Web",
+          "previewImage": "",
+          "githubUrl": "https://github.com/simbaqueva/landing_fulima",
+          "assets": [
+            {
+              "type": "document",
+              "src": "https://simbaqueva.github.io/landing_fulima/",
+              "title": "Sitio Web"
+            }
+          ],
+          "category": "Programación Web",
+          "tags": [
+            "Web",
+            "Landing Page",
+            "Fulima"
+          ],
+          "description": "Landing page para Fulima, desplegada como sitio web autónomo."
+        },
+        {
+          "title": "Quinta a Fondo",
+          "subtitle": "https://simbaqueva.github.io/landing_page_quinta_a_fondo/",
+          "badge": "Web",
+          "previewImage": "",
+          "githubUrl": "https://github.com/simbaqueva/landing_page_quinta_a_fondo",
+          "assets": [
+            {
+              "type": "document",
+              "src": "https://simbaqueva.github.io/landing_page_quinta_a_fondo/",
+              "title": "Sitio Web"
+            }
+          ],
+          "category": "Programación Web",
+          "tags": [
+            "Web",
+            "Landing Page",
+            "Quinta a Fondo"
+          ],
+          "description": "Landing page para Quinta a Fondo, desplegada como sitio web autónomo."
+        }
+      ],
+      "count": 5
+    }
+  ]
+}
